@@ -19,13 +19,13 @@
    <img align="center" alt="matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
 </div>
 
-### Banco de Dados
+### 💾 Banco de Dados
 <div style="display: inline_block">
   <img align="center" alt="sql server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
    <img align="center" alt="postgre" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-### Ferramentas 
+### 🖥️ Ferramentas 
 <div style="display: inline_block">
   <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img align="center" alt="power bi" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
